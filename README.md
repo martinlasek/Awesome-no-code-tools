@@ -67,6 +67,7 @@ Originally published as
 
 ### Customer Support
 * [Drift](https://www.drift.com/) - Customer support chatbot
+* [WishKit](https://www.wishkit.io) - In-app feature request board with user voting
 * [Crisp](https://crisp.chat/fr/) - Customer support directly in your website
 
 ### Customer Support, Marketing, CRM
